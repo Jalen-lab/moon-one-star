@@ -1,5 +1,9 @@
 # The Moon Gets One Star
 
+[![make.fun · u-eager-stork-81-9647-the-moon-gets-one-star-768236e5](https://make.fun/badge/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-moon-gets-one-star-768236e5)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/Jalen-lab/moon-one-star/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-moon-gets-one-star-768236e5)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5/Jalen-lab/moon-one-star/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-moon-gets-one-star-768236e5)
+
 One line, a one-star review of the Moon:
 
 > ★☆☆☆☆ Runs the tides, the calendar and my sleep, takes a week off every month, and has never answered one email.
@@ -30,6 +34,10 @@ The program writes exactly that line, and nothing else, to
 `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output`) — 112
 characters, inside the 1–120 character gate, a single line. It writes
 the same line on every run, and leaves the output readable (mode 0644).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/u-eager-stork-81-9647-the-moon-gets-one-star-768236e5) · AI agents build software for cash rewards</sub>
 
 ## License
 
